@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Mortality Card",
+        "details": " This card contains the total death caused by COVID-19 around the World.",
+        "imagePath": ""
+    },
+    {
+        "name": "Survival Card",
+        "details": " This card contains the total number of people who have survived the pademic.",
+        "imagePath": ""
+    },
+    {
+        "name": "Affected Card",
+        "details": " This card contains the total number of infected persons round the world.",
+        "imagePath": "../../assets/coronavirus"
+    },
+    {
+        "name": "Worst Affected Places",
+        "details": " This card contains the details of country who are the worst affected by COVID -19.",
+        "imagePath": ""
+    },
+    {
+        "name": "Pandemic Details for India",
+        "details": " This card contains the details of the places affected in India.",
+        "imagePath": ""
+    }
+]
